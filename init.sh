@@ -1,1 +1,2 @@
-source terminal/common/alias/init.sh
+
+source $DFOX_PATH/aliases/init.sh
