@@ -12,6 +12,6 @@ fi
 curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
 
 echo '# - - - - - - - - - - DFOX - - - - - - - - - -' >> $HOME/.zshrc
-echo 'export DFOX_PATH="$HOME/.dotfiles"' >> $HOME/.zshrc
-echo 'source $DFOX_PATH/init.sh' >> $HOME/.zshrc
-echo '# - - - - - - - - - - - - - - - - - - - - - -' >> $HOME/.zshrc
+echo 'export DFOX_PATH="$HOME/.dotfiles"'             >> $HOME/.zshrc
+echo 'source $DFOX_PATH/init.sh'                      >> $HOME/.zshrc
+echo '# - - - - - - - - - - - - - - - - - - - - - -'  >> $HOME/.zshrc
