@@ -1,0 +1,9 @@
+brew install node
+brew install btop
+brew install go
+brew install make
+brew install mas
+brew install mongosh
+brew install vim
+brew install neovim
+brew install nmap
