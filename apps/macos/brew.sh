@@ -20,3 +20,5 @@ brew install --cask steam
 brew install --cask keka
 brew install --cask mactex
 brew install --cask mongodb-compass
+
+mas install 937984704 # amphetamine
