@@ -1,7 +1,7 @@
-brew install node 
-brew install go 
-brew install make 
-brew install mas 
+brew install node
+brew install go
+brew install make
+brew install mas
 brew install vim
 brew install git
 brew install docker
@@ -22,3 +22,4 @@ brew install --cask mactex
 brew install --cask mongodb-compass
 
 mas install 937984704 # amphetamine
+mas install 310633997 # whatsapp
