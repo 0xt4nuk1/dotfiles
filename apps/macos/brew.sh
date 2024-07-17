@@ -23,3 +23,6 @@ brew install --cask mongodb-compass
 
 mas install 937984704 # amphetamine
 mas install 310633997 # whatsapp
+mas install 462054704 # microsoft word
+mas install 462058435 # microsoft excel
+mas install 462062816 # microsoft powerpoint
