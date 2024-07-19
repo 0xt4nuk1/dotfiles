@@ -20,6 +20,7 @@ brew install --cask steam
 brew install --cask keka
 brew install --cask mactex
 brew install --cask mongodb-compass
+brew install --cask github
 
 mas install 937984704 # amphetamine
 mas install 310633997 # whatsapp
