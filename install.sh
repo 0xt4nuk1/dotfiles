@@ -9,7 +9,12 @@ else
     exit 1
 fi
 
-mkdir $HOME/.dotfiles
+# Create the .dotfiles directory in the user's home directory if it doesn't exist
+if [ ! -d "$HOME/.dotfiles" ]; then
+    mkdir $HOME/.dotfiles
+fi
+
+# Synchronize the current directory with the .dotfiles directory, overwriting the destination
 rsync -a --delete ./ $HOME/.dotfiles/
 
 # Download and install Zimfw
