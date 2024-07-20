@@ -5,3 +5,4 @@ mas
 vim
 git
 docker
+gnupg
