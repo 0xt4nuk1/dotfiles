@@ -1,0 +1,15 @@
+firefox
+proton-pass
+iterm2
+telegram
+visual-studio-code
+proton-drive
+proton-mail
+protonvpn
+discord
+firefox@developer-edition
+steam
+keka
+mactex
+mongodb-compass
+github

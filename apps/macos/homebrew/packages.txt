@@ -1,0 +1,7 @@
+node
+go
+make
+mas
+vim
+git
+docker
