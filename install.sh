@@ -9,8 +9,13 @@ else
     exit 1
 fi
 
+mkdir $HOME/.dotfiles
+rsync -a --delete ./ $HOME/.dotfiles/
+
+# Download and install Zimfw
 curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
 
+# Add configurations to the .zshrc file
 echo '# - - - - - - - - - - DFOX - - - - - - - - - -' >> $HOME/.zshrc
 echo 'export DFOX_PATH="$HOME/.dotfiles"'             >> $HOME/.zshrc
 echo 'source $DFOX_PATH/init.sh'                      >> $HOME/.zshrc
