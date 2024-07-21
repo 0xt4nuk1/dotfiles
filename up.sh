@@ -1,0 +1,1 @@
+set PYTHONPATH=.;python3 apps/macos/install_update_all.py --mode update
