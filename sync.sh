@@ -1,0 +1,1 @@
+rsync -a --delete ./ $HOME/.dotfiles/
