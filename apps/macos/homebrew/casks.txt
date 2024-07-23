@@ -14,3 +14,4 @@ mactex
 mongodb-compass
 github
 docker
+obsidian
