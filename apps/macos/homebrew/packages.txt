@@ -4,5 +4,4 @@ make
 mas
 vim
 git
-docker
 gnupg

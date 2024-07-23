@@ -13,3 +13,4 @@ keka
 mactex
 mongodb-compass
 github
+docker
