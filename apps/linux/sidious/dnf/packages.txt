@@ -1,0 +1,4 @@
+neovim
+make
+qemu
+vim
