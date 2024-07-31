@@ -27,7 +27,7 @@ def create_symlinks_from_json(json_file):
 
 if __name__ == "__main__":
     # Path to the JSON file
-    json_file = 'symlinks/links.json'
+    json_file = 'symlinks/general.json'
     
     # Call the function to create the symbolic links
     create_symlinks_from_json(json_file)
