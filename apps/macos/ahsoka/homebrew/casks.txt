@@ -16,3 +16,4 @@ github
 docker
 obsidian
 adobe-creative-cloud
+wireshark
