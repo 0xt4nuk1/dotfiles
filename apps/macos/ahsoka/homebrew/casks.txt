@@ -17,3 +17,4 @@ docker
 obsidian
 adobe-creative-cloud
 wireshark
+pycharm-ce
